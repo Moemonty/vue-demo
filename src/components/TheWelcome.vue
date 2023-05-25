@@ -30,8 +30,8 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>My Education</template>
     <ul>
-      <li>Masters of Science - Media Studies - Indiana University Bloomington</li>
-      <li>Bachelors of Arts - Major in Communications / Minors in English and Journalism - Northern Illinois University</li>
+      <li>Master of Science - Media Studies - Indiana University Bloomington</li>
+      <li>Bachelor of Arts - Major in Communications / Minors in English and Journalism - Northern Illinois University</li>
     </ul>
   </WelcomeItem>
 
